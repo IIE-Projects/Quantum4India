@@ -5,12 +5,12 @@ const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   const navLinks = [
-    { name: 'Home', href: '/' },
-    { name: 'Areas', href: '/areas' },
-    { name: 'Tools', href: '/tools' },
-    { name: 'Publications', href: '/publications' },
-    { name: 'People', href: '/people' },
-    { name: 'Careers', href: '/careers' }
+    { name: 'Home', href: '#' },
+    { name: 'Areas', href: '#areas' },
+    { name: 'Tools', href: '#tools' },
+    { name: 'Publications', href: '#publications' },
+    { name: 'People', href: '#people' },
+    { name: 'Careers', href: '#careers' }
   ];
 
   return (

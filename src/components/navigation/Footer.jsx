@@ -2,16 +2,16 @@ import { Github, Linkedin, Twitter, Youtube } from "lucide-react";
 
 const Footer = () => {
     const footerLinks = [
-      { name: 'Mission', href: '/mission' },
-      { name: 'Themes', href: '/themes' },
-      { name: '#DataDaan', href: '/datadaan' },
-      { name: 'Activities', href: '/activities' },
-      { name: 'Past Events', href: '/events' },
-      { name: 'Participants', href: '/participants' },
-      { name: 'Join', href: '/join' },
-      { name: 'Media', href: '/media' },
-      { name: 'Resources', href: '/resources' },
-      { name: 'Contact us', href: '/contact' }
+      { name: 'Mission', href: '#mission' },
+      { name: 'Themes', href: '#themes' },
+      { name: '#DataDaan', href: '#datadaan' },
+      { name: 'Activities', href: '#activities' },
+      { name: 'Past Events', href: '#events' },
+      { name: 'Participants', href: '#participants' },
+      { name: 'Join', href: '#join' },
+      { name: 'Media', href: '#media' },
+      { name: 'Resources', href: '#resources' },
+      { name: 'Contact us', href: '#contact' }
     ];
   
     const socialLinks = [
