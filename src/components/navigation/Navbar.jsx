@@ -6,11 +6,11 @@ const Navbar = () => {
 
   const navLinks = [
     { name: 'Home', href: '#' },
-    { name: 'Areas', href: '#areas' },
-    { name: 'Tools', href: '#tools' },
-    { name: 'Publications', href: '#publications' },
-    { name: 'People', href: '#people' },
-    { name: 'Careers', href: '#careers' }
+    { name: 'About', href: '#about' },
+    { name: 'Focus Area', href: '#focusarea' },
+    { name: 'Blogs', href: '#blogs' },
+    { name: 'Events', href: '#events' },
+    { name: 'Contact', href: '#contact' }
   ];
 
   return (

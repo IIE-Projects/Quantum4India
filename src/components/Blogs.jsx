@@ -1,40 +1,46 @@
-import { motion } from 'framer-motion';
-import { ArrowRight, Calendar, Clock, ChevronRight } from 'lucide-react';
+import { motion } from "framer-motion";
+import { ArrowRight, Calendar, Clock, ChevronRight } from "lucide-react";
 
 const Blogs = () => {
   const blogs = [
     {
       title: "Quantum Computing: Transforming India's Technological Landscape",
-      excerpt: "Exploring how quantum computing is reshaping India's technological capabilities and future prospects.",
+      excerpt:
+        "Exploring how quantum computing is reshaping India's technological capabilities and future prospects.",
       date: "January 10, 2025",
       readTime: "8 min read",
-      image: "https://placehold.co/800x600"
+      image: "https://placehold.co/800x600",
     },
     {
       title: "AI for Social Good: Empowering Rural Communities",
-      excerpt: "Discovering innovative ways AI is being utilized to enhance rural development and community empowerment.",
+      excerpt:
+        "Discovering innovative ways AI is being utilized to enhance rural development and community empowerment.",
       date: "January 8, 2025",
       readTime: "6 min read",
-      image: "https://placehold.co/800x600"
+      image: "https://placehold.co/800x600",
     },
     {
       title: "Navigating AI Regulations: A Pathway to Ethical Development",
-      excerpt: "Understanding the regulatory framework and ethical considerations in AI development for India.",
+      excerpt:
+        "Understanding the regulatory framework and ethical considerations in AI development for India.",
       date: "January 5, 2025",
       readTime: "7 min read",
-      image: "https://placehold.co/800x600"
-    }
+      image: "https://placehold.co/800x600",
+    },
   ];
 
   return (
-    <section className="py-20 bg-gray-50">
+    <section id="blogs" className="py-20 bg-gray-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Section Header */}
         <div className="text-center mb-12">
-          <h2 className="text-3xl font-bold text-gray-900 mb-4">Latest Updates</h2>
+          <h2 className="text-3xl font-bold text-gray-900 mb-4">
+            Latest Updates
+          </h2>
           <div className="w-24 h-1 bg-orange-500 mx-auto mb-6" />
           <p className="text-gray-600 max-w-2xl mx-auto">
-            Stay informed about the latest developments in quantum computing and artificial intelligence
+            Stay informed about the latest developments in quantum computing and
+            artificial intelligence
           </p>
         </div>
 
@@ -61,15 +67,15 @@ const Blogs = () => {
                   <Clock className="w-4 h-4 mr-2" />
                   <span>{blog.readTime}</span>
                 </div>
-                
+
                 <h3 className="text-xl font-semibold text-gray-900 mb-3">
                   {blog.title}
                 </h3>
-                
+
                 <p className="text-gray-600 mb-4 line-clamp-3">
                   {blog.excerpt}
                 </p>
-                
+
                 <button className="inline-flex items-center text-orange-600 hover:text-orange-700 font-medium">
                   Read More
                   <ChevronRight className="w-4 h-4 ml-1" />
@@ -87,7 +93,8 @@ const Blogs = () => {
           className="text-center"
         >
           <p className="text-gray-600 mb-6">
-            Explore more articles to stay updated on advancements in AI and quantum technologies.
+            Explore more articles to stay updated on advancements in AI and
+            quantum technologies.
           </p>
           <a
             href="/blogs"

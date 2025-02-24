@@ -5,7 +5,7 @@ import WhatWeDo from './WhatWeDo';
 
 const About = () => {
     return (
-        <div>
+        <div id='about'>
             <OurMission />
             <OurVision />
             <WhatWeDo />
