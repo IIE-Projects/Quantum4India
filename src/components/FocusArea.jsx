@@ -11,22 +11,22 @@ const FocusArea = () => {
     {
       icon: Cpu,
       title: "Quantum Technology Ecosystem",
-      description: "Understanding and strengthening India's technological capabilities to build an Atmanirbhar (self-reliant) quantum ecosystem. We focus on identifying areas for investment and development to ensure global competitiveness in quantum computing, quantum communication, and quantum sensing.",
+      description: "Understanding and strengthening India's technological capabilities to build an Atmanirbhar (self-reliant) quantum ecosystem. We focus on identifying areas for investment and development to ensure global competitiveness in quantum computing, quantum communication, and quantum sensing, with AI as a supporting technology.",
     },
     {
       icon: Globe,
       title: "Societal Impact of Quantum Technologies",
-      description: "Designing quantum applications tailored for India's diverse society. By collaborating with physicists, economists, sociologists, and technologists, we aim to create solutions that address unique cultural, economic, and infrastructural challenges.",
+      description: "Designing quantum and AI applications tailored for India's diverse society. By collaborating with physicists, economists, sociologists, and technologists, we aim to create solutions that address unique cultural, economic, and infrastructural challenges, with quantum solutions leading the way.",
     },
     {
       icon: GraduationCap,
       title: "Development of Quantum Capabilities",
-      description: "Building a robust pipeline of quantum talent by engaging with educational institutions, researchers, and startups. We provide mentorship, resources, and collaboration opportunities to create cutting-edge quantum platforms and applications.",
+      description: "Building a robust pipeline of quantum and AI talent by engaging with educational institutions, researchers, and startups. We provide mentorship, resources, and collaboration opportunities to create cutting-edge quantum platforms and applications, with quantum as the primary focus.",
     },
     {
       icon: Rocket,
       title: "Strategic Initiatives in Quantum Technologies",
-      description: "Driving innovation in critical areas such as cybersecurity, healthcare, space exploration, and national security. Through strategic partnerships and risk mitigation strategies, we address key challenges and unlock the potential of quantum technologies for India's future.",
+      description: "Driving innovation in critical areas such as cybersecurity, healthcare, space exploration, and national security. Through strategic partnerships and risk mitigation strategies, we address key challenges and unlock the potential of quantum and AI technologies for India's future, with quantum as the foundation for progress.",
     }
   ];
 

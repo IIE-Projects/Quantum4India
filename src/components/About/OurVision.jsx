@@ -1,20 +1,18 @@
-import React from 'react';
-
 const OurVision = () => {
   const visionPoints = [
     {
-      title: "Advanced Technology Ecosystem",
-      description: "Advancing quantum and AI technologies to create meaningful impact through innovative solutions that address real-world challenges and drive progress across sectors.",
+      title: "Advanced Quantum Technology Ecosystem",
+      description: "Advancing quantum technologies and artificial intelligence to create meaningful impact through innovative solutions that address real-world challenges and drive progress across sectors, with quantum as the foundation.",
       icon: "🔬"
     },
     {
       title: "Ethical Innovation Framework",
-      description: "Establishing and promoting responsible innovation practices that prioritize transparency, accountability, and societal benefit in technological advancement.",
+      description: "Establishing and promoting responsible innovation practices that prioritize transparency, accountability, and societal benefit in technological advancement, with quantum-first principles guiding our approach.",
       icon: "⚖️"
     },
     {
       title: "Inclusive Growth Initiative",
-      description: "Dedicated to reducing socio-economic disparities by democratizing access to advanced technologies and creating opportunities for all segments of society.",
+      description: "Dedicated to reducing socio-economic disparities by democratizing access to quantum technologies and artificial intelligence, creating opportunities for all segments of society, with quantum leading the way.",
       icon: "🌟"
     }
   ];
@@ -27,7 +25,7 @@ const OurVision = () => {
             Our Vision
           </h1>
           <p className="text-gray-600 max-w-3xl mx-auto text-lg">
-            Our vision is to create a better future through innovation and technology, fostering a thriving ecosystem that drives technological innovation while ensuring ethical practices and inclusive growth.
+            Our vision is to create a better future through quantum-driven innovation and technology, fostering a thriving ecosystem that drives technological advancement while ensuring ethical practices and inclusive growth, with quantum technologies at the core.
           </p>
         </div>
         
@@ -60,7 +58,7 @@ const OurVision = () => {
         <div className="mt-16 text-center">
           <div className="inline-block p-8 bg-white rounded-lg shadow-md border border-gray-200">
             <p className="text-gray-700 text-lg font-medium max-w-2xl">
-              Through strategic initiatives and collaborative partnerships, we aim to create lasting positive impact on society while maintaining the highest standards of technological excellence and ethical responsibility.
+              Through strategic initiatives and collaborative partnerships, we aim to create lasting positive impact on society while maintaining the highest standards of quantum and AI excellence and ethical responsibility, with quantum as our guiding principle.
             </p>
           </div>
         </div>

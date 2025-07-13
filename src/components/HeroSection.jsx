@@ -20,7 +20,7 @@ const HeroSection = () => {
           {...fadeIn}
           transition={{ delay: 0.2 }}
         >
-          Advancing AI and Quantum Technologies for India
+          Advancing Quantum and AI Technologies for India
         </motion.p>
 
         {/* Main Headline */}
@@ -29,7 +29,7 @@ const HeroSection = () => {
           {...fadeIn}
           transition={{ delay: 0.4 }}
         >
-          Empowering India with Quantum
+          Empowering India with Quantum Technologies
         </motion.h1>
 
         {/* Subtext */}
@@ -38,7 +38,7 @@ const HeroSection = () => {
           {...fadeIn}
           transition={{ delay: 0.6 }}
         >
-          Creating an ecosystem for innovation, inclusion, and growth.
+          Creating an ecosystem for quantum innovation, inclusion, and growth, with AI as a key enabler.
         </motion.p>
 
         {/* CTA Button */}
@@ -57,12 +57,7 @@ const HeroSection = () => {
         >
           <div className="prose prose-lg">
             <p className="text-gray-600 leading-relaxed">
-              At Quantum4India, we are on a mission to democratize access to
-              quantum technologies and artificial intelligence. By fostering
-              open-source contributions, we aim to empower individuals and
-              organizations to leverage these cutting-edge technologies for
-              societal growth and innovation. Explore our initiatives to build a
-              self-reliant AI and quantum ecosystem in India.
+              At Quantum4India, we are on a mission to democratize access to quantum technologies and artificial intelligence, with quantum at the forefront of our initiatives. By fostering open-source contributions, we empower individuals and organizations to leverage these cutting-edge technologies for societal growth and innovation. Explore our initiatives to build a self-reliant quantum and AI ecosystem in India, where quantum leads the way in transformative change.
             </p>
           </div>
         </motion.div>

@@ -6,23 +6,23 @@ const Blogs = () => {
     {
       title: "Quantum Computing: Transforming India's Technological Landscape",
       excerpt:
-        "Exploring how quantum computing is reshaping India's technological capabilities and future prospects.",
+        "Exploring how quantum computing is reshaping India's technological capabilities and future prospects, and how it complements advancements in artificial intelligence.",
       date: "January 10, 2025",
       readTime: "8 min read",
       image: "https://placehold.co/800x600",
     },
     {
-      title: "AI for Social Good: Empowering Rural Communities",
+      title: "Quantum & AI for Social Good: Empowering Rural Communities",
       excerpt:
-        "Discovering innovative ways AI is being utilized to enhance rural development and community empowerment.",
+        "Discovering innovative ways quantum technologies and AI are being utilized together to enhance rural development and community empowerment, with quantum solutions leading the way in solving complex challenges.",
       date: "January 8, 2025",
       readTime: "6 min read",
       image: "https://placehold.co/800x600",
     },
     {
-      title: "Navigating AI Regulations: A Pathway to Ethical Development",
+      title: "Navigating Quantum and AI Regulations: A Pathway to Ethical Development",
       excerpt:
-        "Understanding the regulatory framework and ethical considerations in AI development for India.",
+        "Understanding the regulatory framework and ethical considerations in quantum and AI development for India, with a focus on quantum-first approaches to responsible innovation.",
       date: "January 5, 2025",
       readTime: "7 min read",
       image: "https://placehold.co/800x600",
@@ -39,8 +39,7 @@ const Blogs = () => {
           </h2>
           <div className="w-24 h-1 bg-orange-500 mx-auto mb-6" />
           <p className="text-gray-600 max-w-2xl mx-auto">
-            Stay informed about the latest developments in quantum computing and
-            artificial intelligence
+            Stay informed about the latest developments in quantum technologies and artificial intelligence, with a special focus on quantum-driven innovation for India.
           </p>
         </div>
 
@@ -93,8 +92,7 @@ const Blogs = () => {
           className="text-center"
         >
           <p className="text-gray-600 mb-6">
-            Explore more articles to stay updated on advancements in AI and
-            quantum technologies.
+            Explore more articles to stay updated on advancements in quantum technologies and artificial intelligence, and discover how quantum is shaping the future alongside AI.
           </p>
           <a
             href="/blogs"

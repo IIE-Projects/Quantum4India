@@ -10,27 +10,27 @@ import {
 const Events = () => {
   const events = [
     {
-      title: "National Quantum Computing Summit 2025",
+      title: "National Quantum & AI Summit 2025",
       date: "March 15-16, 2025",
       location: "IIT Delhi",
       type: "Conference",
-      description: "Join leading researchers and industry experts to discuss the future of quantum computing in India.",
+      description: "Join leading researchers and industry experts to discuss the future of quantum computing and artificial intelligence in India, with quantum as the central theme.",
       attendees: "250+ Expected"
     },
     {
-      title: "Quantum Technology Workshop Series",
+      title: "Quantum & AI Technology Workshop Series",
       date: "February 1-28, 2025",
       location: "Virtual Event",
       type: "Workshop",
-      description: "Month-long virtual workshop series covering quantum computing fundamentals and applications.",
+      description: "Month-long virtual workshop series covering quantum computing fundamentals and applications, with sessions on AI as a complementary technology.",
       attendees: "500+ Registered"
     },
     {
-      title: "AI & Quantum Integration Symposium",
+      title: "Quantum & AI Integration Symposium",
       date: "April 5, 2025",
       location: "Bengaluru",
       type: "Symposium",
-      description: "Exploring synergies between AI and quantum technologies for national development.",
+      description: "Exploring synergies between quantum and AI technologies for national development, with quantum technologies leading the innovation agenda.",
       attendees: "150+ Expected"
     }
   ];
@@ -42,7 +42,7 @@ const Events = () => {
           <h2 className="text-3xl font-bold text-gray-900 mb-4">Upcoming Events</h2>
           <div className="w-24 h-1 bg-orange-500 mx-auto mb-6" />
           <p className="text-gray-600 max-w-2xl mx-auto">
-            Join us in shaping the future of quantum technology and AI in India through our events and programs
+            Join us in shaping the future of quantum technologies and artificial intelligence in India through our events and programs, with quantum as the driving force for progress.
           </p>
         </div>
 
