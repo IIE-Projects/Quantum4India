@@ -52,29 +52,29 @@ const OurMission = () => {
     {
       title: "2024 Year in Review for Artificial Intelligence",
       date: "January 2024",
-      thumbnail: "/api/placeholder/400/225"
+      thumbnail: "https://placehold.co/400x225"
     },
     {
       title: "AI4INDIA SUMMIT - Bangalore",
       date: "September 28, 2024",
-      thumbnail: "/api/placeholder/400/225"
+      thumbnail: "https://placehold.co/400x225"
     },
     {
       title: "Expert Session on Shaping the Impact of AI on Society",
       date: "October 6, 2023",
-      thumbnail: "/api/placeholder/400/225"
+      thumbnail: "https://placehold.co/400x225"
     }
   ];
 
   const videos = [
     {
       title: "AI Decoded",
-      thumbnail: "/api/placeholder/400/225",
+      thumbnail: "https://placehold.co/400x225",
       speaker: "Shashi Vempati"
     },
     {
       title: "Artificial Intelligence & Its Applications",
-      thumbnail: "/api/placeholder/400/225",
+      thumbnail: "https://placehold.co/400x225",
       speaker: "Alok Agarwal"
     }
   ];
